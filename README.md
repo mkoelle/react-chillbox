@@ -68,3 +68,17 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+## Resources
+
+### Libraries in use
+
+- [react bootstrap](https://react-bootstrap.github.io/)
+- [canvasJs - react-charts](https://canvasjs.com/react-charts/dynamic-live-line-chart/)
+- [create-react-app](https://create-react-app.dev/docs/getting-started)
+
+### Guides / Examples
+
+- [Ultimate React Component Patterns with Typescript 2.8](https://levelup.gitconnected.com/ultimate-react-component-patterns-with-typescript-2-8-82990c516935)
+- [How to fetch data in react - cheat sheet + examples](https://www.freecodecamp.org/news/fetch-data-react/)
+- [react typescript cheat sheets](https://github.com/typescript-cheatsheets/react#reacttypescript-cheatsheets)
