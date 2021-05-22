@@ -8,20 +8,6 @@ import Col from "react-bootstrap/Col";
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
 
       <Container fluid>
         <Row xs={1} sm={2} md={3} lg={4} xl={5}>
