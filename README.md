@@ -82,3 +82,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 - [Ultimate React Component Patterns with Typescript 2.8](https://levelup.gitconnected.com/ultimate-react-component-patterns-with-typescript-2-8-82990c516935)
 - [How to fetch data in react - cheat sheet + examples](https://www.freecodecamp.org/news/fetch-data-react/)
 - [react typescript cheat sheets](https://github.com/typescript-cheatsheets/react#reacttypescript-cheatsheets)
+- [Deploying Static Websites To AWS S3 + CloudFront + Route53 Using The TypeScript AWS CDK](https://blog.dennisokeeffe.com/blog/2020-11-04-deploying-websites-to-aws-s3-with-the-cdk/)
