@@ -5,7 +5,7 @@
   "dependencies": {
     "@testing-library/jest-dom": "^5.12.0",
     "@testing-library/react": "^11.2.7",
-    "@testing-library/user-event": "^12.8.3",
+    "@testing-library/user-event": "^13.1.9",
     "bootstrap": "^5.0.1",
     "husky": "^6.0.0",
     "lint-staged": "^11.0.0",
@@ -21,7 +21,8 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "lint": "prettier --write \"**/*.{js,jsx,ts,tsx,json,css,scss,md}\""
+    "lint": "prettier --write \"**/*.{js,jsx,ts,tsx,json,css,scss,md}\"",
+    "deps": "ncu"
   },
   "eslintConfig": {
     "extends": [
@@ -50,5 +51,8 @@
     "hooks": {
       "pre-commit": "lint-staged"
     }
+  },
+  "devDependencies": {
+    "npm-check-updates": "^11.5.13"
   }
 }
